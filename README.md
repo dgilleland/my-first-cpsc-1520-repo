@@ -9,3 +9,7 @@ I have learnt how to
 - Commit changes to my repository
 - Publish my code to GitHub.com
 - Open my repository folder in Visual Studio Code (my editor)
+- Create a good .gitignore file - from [GitIgnore.io](https://gitignore.io)
+- Create a good .gitattributes file - from [GitAttributes.io](https://gitattributes.io)
+- Commit my changes from within Visual Studio Code
+
